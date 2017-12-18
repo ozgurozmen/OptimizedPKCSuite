@@ -2,7 +2,7 @@
 
 This repository includes all the source codes to produce the following paper:
 
-Low-Cost Standard Public Key Cryptography Services for Wireless IoT Systems - To appear in IoT S&P 2017
+Low-Cost Standard Public Key Cryptography Services for Wireless IoT Systems - Appeared in IoT S&P 2017 (http://web.engr.oregonstate.edu/~yavuza/article/17/OzmenYavuz_iot10.pdf)
 
 ## Dependencies
 
